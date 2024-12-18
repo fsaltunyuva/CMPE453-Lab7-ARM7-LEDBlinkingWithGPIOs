@@ -3,10 +3,12 @@ Using Proteus (Demo Version) to design circuit and use it for LED blinking for t
 
 1. Please add one led to PB6 for 1 second blink, and add the screenshot of the circuit.
 
-**Answer:** ![placeholder](https://github.com/fsaltunyuva/CMPE453-Lab7-ARM7-LEDBlinkingWithGPIOs/blob/main/answer.png)
+**Answer:** 
+<div align="center">
+<img src="https://github.com/fsaltunyuva/CMPE453-Lab7-ARM7-LEDBlinkingWithGPIOs/blob/main/answer.png" width="256">
+</div>
 
-2. What changes were made to add the new LED? Please write the code parts according to 
-that and explain in detail.
+2. What changes were made to add the new LED? Please write the code parts according to that and explain in detail.
 
 **Answer:** To add LED to PB6 and have blink with 1 second delay, we should have the code: 
 ```c
