@@ -1,7 +1,7 @@
-# CMPE453-Lab7-LEDBlinkingWithGPIOs
-Using Proteus (Demo Version) to design circuit and use it for LED blinking for the Lab of the CMPE453 (Embedded Systems) Course.
+# CMPE453 Embedded Systems
 
-1. Please add one led to PB6 for 1 second blink, and add the screenshot of the circuit.
+## Lab 7 - ARM7: GPIO and Led Blinking
+1. Please add one LED to PB6 for 1 second blink, and add the screenshot of the circuit.
 
 **Answer:** 
 <div align="center">
@@ -10,7 +10,7 @@ Using Proteus (Demo Version) to design circuit and use it for LED blinking for t
 
 2. What changes were made to add the new LED? Please write the code parts according to that and explain in detail.
 
-**Answer:** To add LED to PB6 and have blink with 1 second delay, we should have the code: 
+**Answer:** To add an LED to PB6 and have it blink with a 1-second delay, we should have the code: 
 ```c
 while (1) 
 { 
